@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+
+# abaikan.untuk search engine
+
+#folder publik di gunakan untuk menyimpan 
+asset baik gambar atau lainnya
